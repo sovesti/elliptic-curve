@@ -1,5 +1,5 @@
 [package]
-name = "elliptic"
+name = "elliptic-curve-gost"
 version = "0.1.0"
 edition = "2021"
 
